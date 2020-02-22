@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family:  Poppins;
+}
+#top {
+    background: url(images/bg/top-banner.png);
+    height: 419px;
+    background-attachment: fixed;
+    /* background-position: center center; */
+    background-repeat: no-repeat;
+    padding-bottom: 50px;
+}
+
+.half_width {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    padding-top: 10px;
+}
+
+.half_width h1{
+    font-size: 50px;
+}
+
+.name_highlight {
+    color: orange;
+}
+
+.half_width img {
+    height: 350px;
+    width: 350px;
+    border-radius: 50%;
+    border: 10px solid #acc7159e;
+    padding: 15px;
+    background: radial-gradient(orange, lightgreen);
+}
+
+.half_width p{
+    padding: 10px 0px;
+}
+
+.button {
+    float: right;
+    margin-right: 211px;
+    padding: 6px;
+    background: linear-gradient(45deg, orange, yellow);
+    text-decoration: none;
+    color: black;
+    border-radius: 10px;
+}
+
+
+
+#second {
+    height: 400px;
+    background: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-attachment: inherit;
+    padding-bottom: 50px;
+}
+
+.second_half {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    padding-top: 10px;
+}
+
+.second_half img{
+    width: 400px;
+}
+
+.second_half h3 {
+    padding-top: 16px;
+}
+
+.second_half p {
+    padding: 23px 0px;
+}
+
+.second_half a {
+    text-decoration: none;
+    color: black;
+    padding: 8px;
+    background: linear-gradient(45deg, orange, red);
+    border-radius: 13px;
+}
+
+#experience_area {
+    height: 400px;
+    background: url(images/bg/exp-bg.png);
+    background-repeat: no-repeat;
+}
+
+.exstyle {
+    margin-left: 65px;
+}
+
+.half_width h2 {
+    color: orange;
+}
+
+.half_width h3 {
+    padding: 19px 0px;
+}
+
+#footer{}
+
+.copyright{}
+
+.copyright p {
+    padding: 11px 0px;
+    background: linear-gradient(to top, yellow, orange);
+    text-align: center;
+    font-size: 19px;
+}
+
+
+.border_style {
+    border-left: 8px solid orange;
+    box-shadow: 3px 4px 9px 4px black;
+    padding: 50px 0px;
+}
+
+
